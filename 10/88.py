@@ -9,3 +9,5 @@ def xyz(x, y, z):
 
 x, y, z=map(int, input().split())
 print(xyz(x, y, z))
+
+sdcsdv
